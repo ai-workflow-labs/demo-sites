@@ -1,0 +1,43 @@
+# robots.txt for Eve Runciman | Brickell Brokers
+# Production file. It takes effect at the root of the live domain.
+# This mock-up stays out of search and AI indexes through a noindex tag on every page.
+
+# Search engines
+User-agent: *
+Allow: /
+Disallow: /buyers/registered/
+Disallow: /sellers/your-analysis/
+Disallow: /sellers/thank-you/
+Disallow: /leads/
+Disallow: /blueprint/
+
+# AI search and answer engines: allowed so the site can be read and cited
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: DuckAssistBot
+User-agent: MistralAI-User
+Allow: /
+Disallow: /buyers/registered/
+Disallow: /sellers/your-analysis/
+Disallow: /sellers/thank-you/
+Disallow: /leads/
+Disallow: /blueprint/
+
+# AI model training: allowed by default. Eve can switch any of these to Disallow: /
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: meta-externalagent
+Allow: /
+Disallow: /buyers/registered/
+Disallow: /sellers/your-analysis/
+Disallow: /sellers/thank-you/
+Disallow: /leads/
+Disallow: /blueprint/
+
+Sitemap: https://ai-workflow-labs.github.io/demo-sites/eve-runciman/sitemap.xml
