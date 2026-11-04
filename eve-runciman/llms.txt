@@ -1,0 +1,27 @@
+# Eve Runciman | Brickell Brokers
+
+> Miami real estate guidance for buyers and property owners from Eve Runciman, a Florida-licensed attorney and real estate professional with over 20 years of experience in real estate, business transactions and law. Works with local, out-of-state and international clients.
+
+Offers free property alerts for on-market and privately marketed homes, a free Sell vs. Rent Report for property owners, and a Private Off-Market Seller List.
+Areas served: Coral Gables, Coconut Grove, Pinecrest, South Miami, Key Biscayne and Brickell.
+Contact: 305-804-2262, eve@reaf.llc, WhatsApp, Miami, FL.
+
+## Services
+- [Buyer alerts](https://ai-workflow-labs.github.io/demo-sites/eve-runciman/buyers/): register criteria and receive matching alerts by email or WhatsApp
+- [Sell vs. Rent Report](https://ai-workflow-labs.github.io/demo-sites/eve-runciman/sellers/): free comparison of selling and renting one Miami property
+- [Private Off-Market Seller List](https://ai-workflow-labs.github.io/demo-sites/eve-runciman/sellers/private-list/): hear from qualified buyers without publicly listing
+- [Featured properties](https://ai-workflow-labs.github.io/demo-sites/eve-runciman/properties/): search by neighborhood, type, bedrooms and price
+
+## Guides
+- [Should You Sell or Rent Your Miami Home?](https://ai-workflow-labs.github.io/demo-sites/eve-runciman/guides/sell-or-rent-miami-home/): what to compare, plus Florida homestead and capital gains rules
+- [Buying Miami Property from Another State or Country](https://ai-workflow-labs.github.io/demo-sites/eve-runciman/guides/buying-miami-property-from-abroad/): eligibility, financing, insurance and closing from a distance
+
+## Neighborhoods
+- [Coral Gables](https://ai-workflow-labs.github.io/demo-sites/eve-runciman/neighborhoods/coral-gables/)
+- [All neighborhoods](https://ai-workflow-labs.github.io/demo-sites/eve-runciman/neighborhoods/)
+
+## About
+- [About Eve Runciman](https://ai-workflow-labs.github.io/demo-sites/eve-runciman/about/)
+- [LLM info](https://ai-workflow-labs.github.io/demo-sites/eve-runciman/llm-info/): verified facts for AI assistants
+- [Contact](https://ai-workflow-labs.github.io/demo-sites/eve-runciman/contact/)
+- [Full text version](https://ai-workflow-labs.github.io/demo-sites/eve-runciman/llms-full.txt)
